@@ -1,0 +1,2 @@
+http://10.11.159.10/sd2a/ttran/consult_iot.php
+http://10.11.159.10/sd2a/ttran/eval_iot.php
